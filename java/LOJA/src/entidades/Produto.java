@@ -47,26 +47,25 @@ public class Produto {
 
 	public int getEstoque() {
 		return estoque;
-		{
+	}
 
 	public void setEstoque(int estoque) {
 		this.estoque = estoque;
 	
-		{
+	}
 	
 			
 		public void incluiEstoque (int quantidade) {
 		this.estoque = this.estoque + quantidade;
 		
-		{
+		}
+		
+		
 	
-	public void retiraEstoque (int + quantidade) {
-		this.estoque = this.estoque - quantidade;
-		this.codigo estoque - = quantidade;
 		
 	}
 	
-}
+
 	
-	}
+
 	
